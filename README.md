@@ -1,5 +1,4 @@
 # Google-AI-API
-Using the Google AI API locally with Python
 
 google_ai/          # Python app that uses the Google AI API\
 │\
